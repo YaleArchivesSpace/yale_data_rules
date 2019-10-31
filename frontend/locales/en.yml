@@ -1,0 +1,6 @@
+#this could also apply to a URL or image URL in a repository record, or a ref ID in an archival object record.
+#could make the message more generic, which would still be less confusing then just giving the raw reg ex pattern,
+#which is the default for this error.
+en:
+  validation_errors:
+    did_not_match_regular_expression: Invalid date format. Must be YYYY, YYYY-MM or YYYY-MM-DD.
